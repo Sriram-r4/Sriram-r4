@@ -3,12 +3,8 @@
 
 ## 🔗 My project demo videos
 1. **UniDID** [Link] (https://drive.google.com/file/d/1E9kGJdoKQIOxqFocIi_V5DVT_QyloxjE/view?usp=drive_link)
-  <video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1E9kGJdoKQIOxqFocIi_V5DVT_QyloxjE/view?usp=drive_link" type="video/mp4">
-   Your browser does not support the video tag.
-</video>
-3. **Shoplist** [Link] (https://drive.google.com/file/d/1WWeQx_6febmpzHu25B4KL34YYFk4BgL2/view?usp=drive_link)
-4. **Watchember** [Link] (https://drive.google.com/file/d/1RQJeJ0SRWk2VXaWuM-w9XBNcuuaKUJsb/view?usp=drive_link)
+2. **Shoplist** [Link] (https://drive.google.com/file/d/1WWeQx_6febmpzHu25B4KL34YYFk4BgL2/view?usp=drive_link)
+3. **Watchember** [Link] (https://drive.google.com/file/d/1RQJeJ0SRWk2VXaWuM-w9XBNcuuaKUJsb/view?usp=drive_link)
 
 ## 🔗 My Certification Links 
 1. **Microsoft Certified : Azure Fundamentals** [Link] (https://learn.microsoft.com/api/credentials/share/en-us/Sriram-1886/EBBCF1F2025A9459?sharingId=51FED2F5116875C2)
